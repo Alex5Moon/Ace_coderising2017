@@ -14,6 +14,8 @@
 >
 - 07 [程序的机器级表示](https://github.com/Alex5Moon/ace_coderising/blob/master/1st_quarter/Notes/20170226.md)
 >
+- 08 [漫谈操作系统之进程线程](https://github.com/lu666666/ace_coderising/blob/master/1st_quarter/Notes/20170305.md)
+>
 - 08 [漫谈操作系统之虚拟存储器](https://github.com/Alex5Moon/ace_coderising/blob/master/1st_quarter/Notes/20170322.md)
 >
 - 09 [Java虚拟机](https://github.com/Alex5Moon/ace_coderising/blob/master/1st_quarter/Notes/20170326.md)
